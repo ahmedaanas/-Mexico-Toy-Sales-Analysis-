@@ -42,6 +42,10 @@ The dashboard was built using Microsoft Power BI and Excel to transform raw sale
 - Data Visualization
 
 ## 📊 Dashboard
+![Dashboard Overview](Screenshots/Dashboard%20Overview.png)
+![Sales Analysis](Screenshots/Sales%20Analysis.png)
+
+![Product Analysis](Screenshots/Product%20Analysis.png)
 
 The Power BI dashboard provides an interactive view of:
 
